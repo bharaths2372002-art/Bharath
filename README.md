@@ -1,6 +1,6 @@
 # Bharath
 # 💫 About Me:
-Im a engineer in electronics and communication <br>im looking job in crypto curriency <br>i know many progeamming languages java,SQL,DSA, Python,Cryptography,Rust,solidity,Blockchain<br>i have many hobbies painting,travelling,reading books  
+Im a engineer in electronics and communication <br>im looking job in crypto currency <br>i know many progeamming languages java,SQL,DSA, Python,Cryptography,Rust,solidity,Blockchain<br>i have many hobbies painting,travelling,reading books  
 
 
 ## 🌐 Socials:
